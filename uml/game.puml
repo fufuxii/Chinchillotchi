@@ -1,0 +1,29 @@
+@startuml
+'https://plantuml.com/class-diagram
+skinparam classAttributeIconSize 0
+
+class Game {
++ play()
+}
+
+class Action {
+
+}
+
+class Action {
+
+}
+
+class Pet extends Action {
+
+}
+
+class Eat extends Action {
+
+}
+
+class Play extends Action {
+
+}
+
+@enduml
